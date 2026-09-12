@@ -1,6 +1,6 @@
 <div align="left">
 
-# tim k. ( @tkachyn )
+# Tim K. ( @tkachyn )
 `automation • problem-solving • productivity tools`
 
 
@@ -10,7 +10,7 @@
 ## about
 
 ```txt
-name      : tim k
+name      : Tim K 
 alias     : tkachyn
 location  : toronto, on
 status    : first-year computer science student @ university of toronto
